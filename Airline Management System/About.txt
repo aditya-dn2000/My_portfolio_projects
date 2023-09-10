@@ -1,0 +1,11 @@
+The following is a practice GUI project on JAVA & MySQL to develope an Airline Management System.
+The project will contain all the basic features associated with an industry grade system such as:
+
+1) Passenger Traval Data.
+2) Ticket Booking.
+3) Flight Data.
+4) Booking Cancellation.
+5) Checkout.
+6) Log In/Sign In Authentication.
+
+I will be doing it using JAVA Swing package.
